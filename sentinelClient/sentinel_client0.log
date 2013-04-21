@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2013-01-18T10:32:53</date>
+  <millis>1358501573043</millis>
+  <sequence>1</sequence>
+  <logger>ch.infbr5.sentinel.client.Main</logger>
+  <level>INFO</level>
+  <class>ch.infbr5.sentinel.client.Main</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>starting myApp</message>
+</record>
+<record>
+  <date>2013-01-18T10:32:53</date>
+  <millis>1358501573311</millis>
+  <sequence>2</sequence>
+  <logger>com.sun.xml.internal.ws.wspolicy.sourcemodel.PolicyModelTranslator</logger>
+  <level>CONFIG</level>
+  <class>[com.sun.xml.internal.ws.policy.sourcemodel.PolicyModelTranslator] </class>
+  <method>&lt;init&gt;</method>
+  <thread>14</thread>
+  <message>WSP0078: Policy assertion creator discovered: class='com.sun.xml.internal.ws.config.management.policy.ManagementAssertionCreator', supported namespace='http://java.sun.com/xml/ns/metro/management'</message>
+</record>
+<record>
+  <date>2013-01-18T10:32:53</date>
+  <millis>1358501573474</millis>
+  <sequence>3</sequence>
+  <logger>com.sun.xml.internal.ws.monitoring</logger>
+  <level>CONFIG</level>
+  <class>com.sun.xml.internal.ws.server.MonitorBase</class>
+  <method>disabled</method>
+  <thread>14</thread>
+  <message>Global client monitoring disabled. http://192.168.2.82:8080/services will not be monitored</message>
+</record>
+<record>
+  <date>2013-01-18T10:32:53</date>
+  <millis>1358501573609</millis>
+  <sequence>4</sequence>
+  <logger>com.sun.xml.internal.ws.monitoring</logger>
+  <level>CONFIG</level>
+  <class>com.sun.xml.internal.ws.server.MonitorBase</class>
+  <method>disabled</method>
+  <thread>14</thread>
+  <message>Global client monitoring disabled. http://192.168.2.82:8080/journal will not be monitored</message>
+</record>
+<record>
+  <date>2013-01-18T10:32:53</date>
+  <millis>1358501573671</millis>
+  <sequence>5</sequence>
+  <logger>com.sun.xml.internal.ws.monitoring</logger>
+  <level>CONFIG</level>
+  <class>com.sun.xml.internal.ws.server.MonitorBase</class>
+  <method>disabled</method>
+  <thread>14</thread>
+  <message>Global client monitoring disabled. http://192.168.2.82:8080/configuration will not be monitored</message>
+</record>
+<record>
+  <date>2013-01-18T10:32:54</date>
+  <millis>1358501574166</millis>
+  <sequence>6</sequence>
+  <logger>ch.infbr5.sentinel.client.StartupHandler</logger>
+  <level>CONFIG</level>
+  <class>ch.infbr5.sentinel.client.StartupHandler</class>
+  <method>showServerInputIfNeeded</method>
+  <thread>14</thread>
+  <message>Client Startup: Server sucessful connected at http://192.168.2.82:8080</message>
+</record>

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/resources/META-INF
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/resources/META-INF/default.properties
+END
+sentinel.jks
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/infbr5/!svn/ver/7/sentinelClient/trunk/sentinelClient/src/main/resources/META-INF/sentinel.jks
+END
+logging.properites
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/resources/META-INF/logging.properites
+END

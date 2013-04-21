@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin
+END
+AusweisInfoPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/AusweisInfoPanel.java
+END
+ImageChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/infbr5/!svn/ver/36/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/ImageChangeListener.java
+END
+CheckInModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInModelImpl.java
+END
+CheckInModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInModel.java
+END
+CheckInBarcodeScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInBarcodeScanner.java
+END
+CheckInOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/infbr5/!svn/ver/7/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInOperation.java
+END
+CheckInTabbedPanels.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInTabbedPanels.java
+END
+CheckInTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInTableModel.java
+END
+ShortcutbarPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/ShortcutbarPanel.java
+END
+Shortcut.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/Shortcut.java
+END
+CheckInChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/infbr5/!svn/ver/36/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInChangedEvent.java
+END
+CheckInSelectionValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInSelectionValue.java
+END
+ImageChangedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/infbr5/!svn/ver/36/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/ImageChangedEvent.java
+END
+CheckInChangeListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/infbr5/!svn/ver/36/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/checkin/CheckInChangeListener.java
+END

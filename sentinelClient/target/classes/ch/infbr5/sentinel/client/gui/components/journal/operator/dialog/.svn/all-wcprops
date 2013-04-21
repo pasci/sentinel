@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog
+END
+SelectPersonenFromJournalDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog/SelectPersonenFromJournalDialogListener.java
+END
+OperatorEntryDialogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog/OperatorEntryDialogPanel.java
+END
+OperatorEntryDialogListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/infbr5/!svn/ver/64/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog/OperatorEntryDialogListener.java
+END
+OperatorInfoDialogPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog/OperatorInfoDialogPanel.java
+END
+SelectedPersonModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/infbr5/!svn/ver/91/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/operator/dialog/SelectedPersonModel.java
+END

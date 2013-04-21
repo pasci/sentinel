@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/infbr5/!svn/ver/119/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal
+END
+JournalPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/JournalPanel.java
+END
+JournalItemRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/JournalItemRenderer.java
+END
+JournalNewMessagePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/JournalNewMessagePanel.java
+END
+JournalListModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/infbr5/!svn/ver/119/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/JournalListModel.java
+END
+JournalModelImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/infbr5/!svn/ver/119/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/journal/JournalModelImpl.java
+END

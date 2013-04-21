@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project sentinelClient with libraries in sub-folder">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+    <target name="create_run_jar">
+        <jar destfile="C:/Users/Pascal/Sentinel/Client/sentinel_client.jar">
+            <manifest>
+                <attribute name="Main-Class" value="ch.infbr5.sentinel.client.Main"/>
+                <attribute name="Class-Path" value=". sentinel_client_lib/miglayout-3.7.4-swing.jar"/>
+            </manifest>
+            <fileset dir="C:/Users/Pascal/workspace/sentinelClient/target/classes"/>
+        </jar>
+        <delete dir="C:/Users/Pascal/Sentinel/Client/sentinel_client_lib"/>
+        <mkdir dir="C:/Users/Pascal/Sentinel/Client/sentinel_client_lib"/>
+        <copy file="C:/Users/Pascal/.m2/repository/com/miglayout/miglayout/3.7.4/miglayout-3.7.4-swing.jar" todir="C:/Users/Pascal/Sentinel/Client/sentinel_client_lib"/>
+    </target>
+</project>

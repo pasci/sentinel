@@ -1,0 +1,105 @@
+package ch.infbr5.sentinel.client.util;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.Properties;
+
+public class ConfigurationLocalHelper {
+
+	private static ConfigurationLocalHelper config;
+
+	public static ConfigurationLocalHelper getConfig() {
+		if (config == null) {
+			config = new ConfigurationLocalHelper();
+		}
+		return config;
+	}
+
+	private Properties applicationProps;
+
+	private ConfigurationLocalHelper() {
+
+		try {
+			// create and load default properties
+			Properties defaultProps = new Properties();
+			InputStream in = this.getClass().getResourceAsStream("/META-INF/default.properties");
+			defaultProps.load(in);
+			in.close();
+
+			// create application properties with default
+			applicationProps = new Properties(defaultProps);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+		try {
+			// now load properties from last invocation
+			InputStream in = new FileInputStream("sentinel.properties");
+			applicationProps.load(in);
+			in.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		saveProperites();
+
+	}
+
+	private void saveProperites() {
+		try {
+			FileOutputStream out;
+			out = new FileOutputStream("sentinel.properties");
+			applicationProps.store(out, "---No Comment---");
+			out.close();
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	public String getServerHostname() {
+		return applicationProps.getProperty("ServerHostname");
+	}
+
+	public void setServerHostname(String host) {
+		applicationProps.setProperty("ServerHostname", host);
+		saveProperites();
+	}
+
+	public String getServerPortnumber() {
+		return applicationProps.getProperty("ServerPortnumber");
+	}
+
+	public void setServerPortnumber(String port) {
+		applicationProps.setProperty("ServerPortnumber", port);
+		saveProperites();
+	}
+
+	public String getEndpointAddress() {
+		return "http://" + getServerHostname() + ":" + getServerPortnumber();
+	}
+	
+	public Long getCheckpointId() {
+		return Long.valueOf(applicationProps.getProperty("CheckpointId"));
+	}
+	
+	public void setCheckpointId(Long checkpointId) {
+		applicationProps.setProperty("CheckpointId", String.valueOf(checkpointId));
+		saveProperites();
+	}
+
+}

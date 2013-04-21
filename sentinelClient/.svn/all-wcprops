@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/infbr5/!svn/ver/84/sentinelClient/trunk/sentinelClient/pom.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/build.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/infbr5/!svn/ver/7/sentinelClient/trunk/sentinelClient/.project
+END
+sentinel.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/infbr5/!svn/ver/154/sentinelClient/trunk/sentinelClient/sentinel.properties
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/infbr5/!svn/ver/118/sentinelClient/trunk/sentinelClient/.classpath
+END
+app.config
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/infbr5/!svn/ver/93/sentinelClient/trunk/sentinelClient/app.config
+END

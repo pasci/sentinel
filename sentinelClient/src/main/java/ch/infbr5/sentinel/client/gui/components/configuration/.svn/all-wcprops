@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/infbr5/!svn/ver/153/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration
+END
+AbstractAdminOverviewPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/infbr5/!svn/ver/140/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/AbstractAdminOverviewPanel.java
+END
+ColumnSearcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/infbr5/!svn/ver/112/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/ColumnSearcher.java
+END
+CheckpointConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/infbr5/!svn/ver/147/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/CheckpointConfigPanel.java
+END
+ConfigurationValuePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/infbr5/!svn/ver/118/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/ConfigurationValuePanel.java
+END
+AbstractAdminTableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/infbr5/!svn/ver/120/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/AbstractAdminTableModel.java
+END
+ImageEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/infbr5/!svn/ver/141/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/ImageEditor.java
+END
+EinheitenConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/infbr5/!svn/ver/153/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/EinheitenConfigPanel.java
+END
+AbstractAdminDetailPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/infbr5/!svn/ver/143/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/AbstractAdminDetailPanel.java
+END
+ZoneConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/infbr5/!svn/ver/143/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/ZoneConfigPanel.java
+END
+PrintConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/infbr5/!svn/ver/153/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/PrintConfigPanel.java
+END
+PersonenConfigPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/infbr5/!svn/ver/153/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui/components/configuration/PersonenConfigPanel.java
+END

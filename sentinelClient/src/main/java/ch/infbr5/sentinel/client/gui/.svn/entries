@@ -1,0 +1,71 @@
+10
+
+dir
+155
+https://subversion.assembla.com/svn/infbr5/sentinelClient/trunk/sentinelClient/src/main/java/ch/infbr5/sentinel/client/gui
+https://subversion.assembla.com/svn/infbr5
+
+
+
+2012-11-13T19:25:48.011617Z
+154
+pasci@freefly.ch
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+14ff8abf-80bd-4c5d-b69c-01df8d6f53e7
+
+ApplicationFrame.java
+file
+
+
+
+
+2012-11-11T18:41:40.547000Z
+92ba8c78216e95cb7168f460b937c23f
+2012-11-13T19:25:48.011617Z
+154
+pasci@freefly.ch
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5498
+
+components
+dir
+
+startup
+dir
+
+util
+dir
+
